@@ -40,7 +40,7 @@ function ProjectCard({
         <div className="flex gap-3">
           <a href={github} target="_blank">
             <button className="p-3 border border-green-500/20 rounded-xl hover:border-green-500">
-              <FaGithub />
+              <FaGithub /> 
             </button>
           </a>
 
@@ -79,6 +79,10 @@ function ProjectCard({
             border
             border-green-500/30
             text-green-400
+             hover:border-green-400
+      hover:-translate-y-1
+      transition-all duration-300
+      cursor-pointer
             "
           >
             {item}

@@ -43,8 +43,8 @@ function Projects() {
             subtitle="AI-Powered Mess Management System"
             description="An enterprise-grade EPR designed to eliminate manual work and enhance efficiency in mess management for educational institutions.Features real-time analytics, automated inventory management, and seamless integration with existing systems."
             achievement="Top 6 Finalist (out of 137 teams) at INNOVIT' 26 Hackathon"
-            github="#"
-            live="#"
+            github="https://github.com/2608raghav/mess-metric.git"
+            live="https://mess-metric.vercel.app"
             tech={[
               "React",
               "Tailwind",
@@ -60,8 +60,8 @@ function Projects() {
             subtitle="AI-Powered Email Campaign Tool"
             description="An AI-driven solution for generating personalized cold emails at scale, improving response rates and engagement for sales and marketing teams."
             achievement="Innovative Solution Award at Startup Weekend"
-            github="#"
-            live="#"
+            github="https://github.com/2608raghav/Cold-mail-generator.git"
+            live="https://cold-mail-generator-nu.vercel.app"
             tech={[
               "React",
               "Node.js",
