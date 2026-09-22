@@ -42,7 +42,7 @@ const About = () => {
 
   <p className="text-gray-300 text-lg leading-8 font-medium">
     I am a third-year B.Tech student pursuing Computer Science
-    and Engineering (CSE-Core) at VIT Bhopal University.
+    and Engineering (CSE-Core) at Vellore Institute of Technology.
     Currently in my sixth semester, I am passionate about
     software development, problem solving, and emerging AI technologies.
   </p>
