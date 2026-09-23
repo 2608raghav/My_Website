@@ -119,7 +119,7 @@ export default function Contact() {
               <ContactCard
                 icon={<FaInstagram />}
                 title="Instagram"
-                value="@yourusername"
+                value="@raghav52625"
                 color="text-pink-400"
                 link="https://instagram.com"
               />
