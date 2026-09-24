@@ -170,7 +170,7 @@ const Achievements = () => {
                 Architected <span className="text-green-400">Mess-Metric</span>,
                 a Web 2.5 food sustainability ERP designed to reduce
                 campus food waste through analytics, forecasting,
-                and transparent sustainability tracking.
+                and transparent sustainability tracking and other useful benefits.
               </p>
 
               <div
