@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import profilePic from "./profile_pic.jpeg";
 import { FaLaptopCode } from "react-icons/fa";
 import TechStack from "./tech_stack";
@@ -44,7 +44,7 @@ const About = () => {
     I am a third-year B.Tech student pursuing Computer Science
     and Engineering (CSE-Core) at Vellore Institute of Technology.
     Currently in my sixth semester, I am passionate about
-    software development, problem solving, and emerging AI technologies.
+    software development, problem solving, and building AI Agents.
   </p>
 
   <p className="text-gray-300 text-lg leading-8 font-medium">
