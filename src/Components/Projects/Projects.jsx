@@ -23,18 +23,20 @@ function Projects() {
         <div className="grid lg:grid-cols-2 gap-10">
 
           <ProjectCard
-            title="Smart Attendance"
-            subtitle="WiFi-Based Attendance Tracking"
-            description="Automatic attendance system that identifies students connected to the teacher's hotspot and records attendance in real time."
-            achievement="Full Stack Engineering Project"
-            github="#"
+            title="AI University Chatbot"
+            subtitle="Multi-Agent University Assistance System"
+            description="Built an intelligent university-focused conversational assistant using Python, LangChain, and LangGraph. It classifies user queries and dynamically routes them to specialized agents for admission, hostel, placement, and academic assistance. Includes session-based conversational memory using SQLite checkpointing to support context-aware follow-up conversations."
+            achievement="Agentic AI Project | Multi-Agent Workflow Architecture"
+            github="YOUR_GITHUB_REPOSITORY_URL"
             live="#"
             tech={[
-              "React",
-              "Node.js",
-              "Express",
-              "MongoDB",
-              "Networking",
+              "Python",
+              "LangChain",
+              "LangGraph",
+              "Ollama",
+              "SQLite",
+              "Multi-Agent AI",
+              "LLM Integration"
             ]}
           />
 
