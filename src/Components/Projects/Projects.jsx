@@ -27,7 +27,7 @@ function Projects() {
             subtitle="Multi-Agent University Assistance System"
             description="Built an intelligent university-focused conversational assistant using Python, LangChain, and LangGraph. It classifies user queries and dynamically routes them to specialized agents for admission, hostel, placement, and academic assistance. Includes session-based conversational memory using SQLite checkpointing to support context-aware follow-up conversations."
             achievement="Agentic AI Project | Multi-Agent Workflow Architecture"
-            github="YOUR_GITHUB_REPOSITORY_URL"
+            github="https://github.com/2608raghav/University_ChatBot.git"
             live="#"
             tech={[
               "Python",
@@ -57,21 +57,26 @@ function Projects() {
             ]}
           />
 
-            <ProjectCard
-            title="Cold Mail Generator"
-            subtitle="AI-Powered Email Campaign Tool"
-            description="An AI-driven solution for generating personalized cold emails at scale, improving response rates and engagement for sales and marketing teams."
-            achievement="Innovative Solution Award at Startup Weekend"
-            github="https://github.com/2608raghav/Cold-mail-generator.git"
-            live="https://cold-mail-generator-nu.vercel.app"
-            tech={[
-              "React",
-              "Node.js",
-              "Express",
-              "MongoDB",
-              "Networking",
-            ]}
-          />
+            
+           <ProjectCard
+             title="NexusAI"
+             subtitle="Distributed Multi-Agent AI Platform"
+  description="Developed a multi-agent AI platform using FastAPI and Python, where an intelligent orchestrator processes natural-language requests and delegates tasks to specialized agents. Integrates News, Weather, Finance, and Email services using external APIs, with Ollama (Qwen3:8B) powering intelligent query understanding and task routing. Designed with modular agent services and asynchronous communication for scalable AI-driven workflows."
+             achievement="Multi-Agent AI Architecture | Intelligent Task Orchestration"
+             github="https://github.com/2608raghav/NexusAI.git"
+             live="#"
+             tech={[
+               "Python",
+               "FastAPI",
+               "LangChain",
+               "Ollama",
+               "Qwen3:8B",
+               "HTTPX",
+               "REST APIs",
+               "Multi-Agent AI"
+             ]}
+           />
+
 
         </div>
       </div>
